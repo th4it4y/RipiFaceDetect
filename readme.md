@@ -1,6 +1,6 @@
 # Project Microprocessor : Object Detection Models on the Raspberry Pi
-<img src="Face Recognition/result.png">
-<img src="Face Recognition/result2.png">
+<img src="Face Recognition/result.jpg">
+<img src="Face Recognition/result2.jpg">
 
 ## Details :memo:
 - Object Detection ตรวจจับวัตถุด้วย Python และ TensorFlow ร่วมกับ Opencv 
